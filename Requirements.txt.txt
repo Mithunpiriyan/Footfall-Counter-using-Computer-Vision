@@ -1,0 +1,9 @@
+Requirements.txt
+
+ultralytics==8.2.11
+opencv-python>=4.9.0
+numpy>=1.23.0
+matplotlib>=3.7.0
+torch>=2.3.0
+torchvision>=0.18.0
+torchaudio>=2.3.0
